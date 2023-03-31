@@ -1,6 +1,10 @@
 # PhilanPay30
 
-A new Flutter project.
+We propose the development of a mobile app that seamlessly integrates donation functionality into the transaction process.
+
+The app would allow users to choose a percentage of their transaction amount to donate to a specific poverty reduction initiative, such as providing access to education, healthcare, or basic needs like food and shelter. Users would have the option to select the initiative of their choice and would receive real-time updates on the impact of their donation.
+
+The app would also provide a clear and transparent process for distributing the donated funds, ensuring that the funds are used effectively to alleviate poverty. This would be done through partnerships with reputable organizations working on poverty reduction initiatives. The app would provide regular updates to users on the impact of their donations and use advanced encryption and other security measures to protect users' financial information and personal data. The app would also be user-friendly, with an intuitive interface that makes it easy for users to navigate and use the donation feature seamlessly during their transactions.
 
 ## Getting Started
 
